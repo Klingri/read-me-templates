@@ -4,13 +4,13 @@ A simple, fast, and feature-rich boilerplate for modern development projects. Th
 
 # ✨ Features
 
--⚡️ **Quick Setup:** Get running in minutes, not hours!
+- ⚡️ **Quick Setup:** Get running in minutes, not hours!
 
-*🎨 **Stylish:** Designed for a modern, responsive experience.
+* 🎨 **Stylish:** Designed for a modern, responsive experience.
 
-+✅ **Reliable:** Includes basic configuration for testing and linting.
++ ✅ **Reliable:** Includes basic configuration for testing and linting.
 
--📚 **Well-Documented:** Clear and concise documentation to help you get started.
+- 📚 **Well-Documented:** Clear and concise documentation to help you get started.
 
 # 🛠️ Quick Start
 
