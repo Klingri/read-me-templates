@@ -1,18 +1,18 @@
-## 🚀 ReadMe-Templates: My ReadMe Templates
+## ReadMe-Templates: My ReadMe Templates
 
 Simple and fast ReadMe Templates for modern Repository projects. This is a great starting point for my repositories!
 
-# ✨ Features
+# Features
 
-- ⚡️ **Quick Setup:** Get running in minutes, not hours!
+- **Quick Setup:** Get running in minutes, not hours!
 
-* 🎨 **Stylish:** Designed for a modern, responsive experience.
+* **Stylish:** Designed for a modern, responsive experience.
 
-+ ✅ **Reliable:** Includes basic configuration for testing and linting.
++ **Reliable:** Includes basic configuration for testing and linting.
 
-- 📚 **Well-Documented:** Clear and concise documentation to help you get started.
+- **Well-Documented:** Clear and concise documentation to help you get started.
 
-# 🛠️ Quick Start
+# Quick Start
 
 1. **Download the files:**
 
@@ -36,7 +36,7 @@ then run it.
 
 The application will now be running on ```Github.```
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are what make the open source community such an amazing place. Any contributions you make are greatly appreciated.
 
@@ -50,7 +50,7 @@ Contributions are what make the open source community such an amazing place. Any
 
 5. Open a Pull Request
 
-# 📄 License
+# License
 
 Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 
