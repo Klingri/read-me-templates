@@ -1,28 +1,28 @@
-# About Project
+## About Project
 
-Project Name: Sample Text
-Project Description:
-Version: 1.0.0
-Tested up to: 1.0.0
+### Project Name: Lorem Ipsum
+##### Project Description:
+- Version: 1.0.0
+- Tested up to: 1.0.0
 
-# Copyright notice
+## Copyright notice
 
 * Author: Author
 * License: MIT License
 
-# Credits
+## Credits
 
 This project uses:
 
-* Sample Text licensed under the GPLv2 license (http://www.gnu.org/licenses/gpl-2.0.html)
+* Sample Text licensed under the Mit license (https://opensource.org/license/mit)
 
-# Description
+## Description
 
 Project Description
 
-For questions, comments or bug reports, visit Colorlib support forum (Insert Website Link).
+For questions, comments or bug reports, visit Lorem Ipsum (Insert Website Link).
 
-# Installation
+## Installation
 
 You can install the project through
 
@@ -30,28 +30,28 @@ Alternatively you can download the file, unzip it and move the unzipped contents
 
 Installation Text
 
-# Project Features
+## Project Features
 
-* Responsive design
+* Lorem Ipsum
 
-# Documentation
+## Documentation
 
-Theme documentation is available on Insert Website Link
+Lorem Ipsum
 
-# Changelog
+## Changelog
 
-## 1.0.0 - 25.10.2025 
+### 1.0.0 - 1.10.2025 
 
-* New
-* New
-* New
+* Lorem Ipsum
+* Lorem Ipsum
+* Lorem Ipsum
 
-## 1.5 - 26.10.2025
+### 1.5 - 5.10.2025
 
-* Added
+* Lorem Ipsum
 
-## 2.0 - 27.10.2025 
+### 2.0 - 15.10.2025 
 
-* New
-* New
-* New
+* Lorem Ipsum
+* Lorem Ipsum
+* Lorem Ipsum
