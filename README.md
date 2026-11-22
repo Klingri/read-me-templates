@@ -1,57 +1,34 @@
-## ReadMe-Templates: My ReadMe Templates
+# ProjectName v1.0.0-beta
+====================
 
-Simple and fast ReadMe Templates for modern Repository projects. This is a great starting point for my repositories!
+![Build Status](https://shields.io)
+![Coverage Status](https://shields.io)
+![Downloads](https://shields.io)
 
-# Features
+> Read Me Template
 
-- **Quick Setup:** Get running in minutes, not hours!
+---
 
-* **Stylish:** Designed for a modern, responsive experience.
+## Table of Contents
+* [Installation](#installation)
+* [Contributing](#contributing)
+* [Credits & Acknowledgements](#credits--acknowledgements)
+* [License](#license)
 
-+ **Reliable:** Includes basic configuration for testing and linting.
+---
 
-- **Well-Documented:** Clear and concise documentation to help you get started.
+## Installation
 
-# Quick Start
+### Manual Download
+Download the [latest release (.zip)](https://github.com)
 
-1. **Download the files:**
+## Contributing
+Fork it and contribute as you like
 
-```
-Download the .md files of whatever you want.
-```
+## Credits & Acknowledgements
+* Inspired by HTML5 Boilerplate and Twitter Bootstrap.
+* Special thanks to the open-source community!
 
-2. **Install dependencies (if applicable):**
-
-```
-get Github first tho.
-```
-
-
-3. **Run the project:**
-
-```
-then run it.
-```
-
-
-The application will now be running on ```Github.```
-
-# Contributing
-
-Contributions are what make the open source community such an amazing place. Any contributions you make are greatly appreciated.
-
-1. Fork the Project
-
-2. Create your Feature Branch
-
-3. Commit your Changes
-
-4. Push to the Branch
-
-5. Open a Pull Request
-
-# License
-
-Distributed under the MIT License. See ```LICENSE.txt``` for more information.
-
-(Made with ❤️ by [Klingri] for the Open Source Community)
+## License
+Copyright (c) 2013 Your Name. 
+Licensed under the [MIT License](http://opensource.org).
